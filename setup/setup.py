@@ -128,7 +128,7 @@ def main():
     is_git_installed()
     is_pip_installed()
     is_ensurepip_installed()
-    venv_names = ['streamlit_simple','pytorch_streamlit']
+    venv_names = ['streamlit_simple','pytorch_streamlit', 'stable_diffusion']
     if platform == 'Windows':
         venv_paths = [r'.\venv\\'+n for n in venv_names]
     elif (platform == 'Linux') | (platform == 'Darwin'):
