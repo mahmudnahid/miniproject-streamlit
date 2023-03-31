@@ -1,4 +1,4 @@
-# streamlit-examples
+# streamlit-examples 
 
 ## Streamlit and Its Use-Cases
 
